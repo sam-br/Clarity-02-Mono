@@ -1,0 +1,83 @@
+.background {
+  viewport-fill: black;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.text {
+  font-family: Fabrikat-Bold;
+  text-anchor: middle;
+  font-size: 45;
+  fill: white;
+}
+
+.gridline { fill: black; }
+.vert { height: 300; width:   4; y: 0; }
+.horz { height:   4; width: 300; x: 0; }
+
+.v0  {x: -2 ; }
+.v1  {x: 48 ; }
+.v2  {x: 98 ; }
+.v3  {x: 148; }
+.v4  {x: 198; }
+.v5  {x: 248; }
+.v6  {x: 298; }
+
+.h0  {y: -2 ; }
+.h1  {y: 48 ; }
+.h2  {y: 98 ; }
+.h3  {y: 148; }
+.h4  {y: 198; }
+.h5  {y: 248; }
+.h6  {y: 298; }
+
+.c1 {x:25}
+.c2 {x:75}
+.c3 {x:125}
+.c4 {x:175}
+.c5 {x:225}
+.c6 {x:275}
+
+.r1 {y: 45}
+.r2 {y: 95}
+.r3 {y:145}
+.r4 {y:195}
+.r5 {y:245}
+.r6 {y:295}
+
+.time {
+  fill: fb-peach;
+  font-family: Fabrikat-Black;
+}
+
+.tc {
+  x: 198;
+  y: 190;
+}
+
+.date {
+  fill: dodgerblue;
+}
+
+.day {
+  fill: fb-peach;
+}
+
+.heart {
+  fill: fb-magenta;
+}
+
+.steps {
+  fill: white;
+}
+
+.distance {
+  fill: lightseagreen;
+}
+
+.rect {
+  height: 4;
+  width: 4;
+}

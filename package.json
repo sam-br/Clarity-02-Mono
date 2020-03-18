@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "288a09ff-57ea-4c4e-b988-94927d800bdc",
+    "appType": "clockface",
+    "appDisplayName": "Clarity-02-Mono 1.0.0",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Clarity-02-Mono 1.0.0"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

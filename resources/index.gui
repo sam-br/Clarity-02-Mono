@@ -1,0 +1,50 @@
+<svg class="background">
+
+  <rect class="gridline vert v0 " /> 
+  <rect class="gridline vert v1 " />
+  <rect class="gridline vert v2 " />
+  <rect class="gridline vert v3 " />
+  <rect class="gridline vert v4 " />
+  <rect class="gridline vert v5 " />
+  <rect class="gridline vert v6 " />
+  
+  <rect class="gridline horz h0 " />
+  <rect class="gridline horz h1 " />
+  <rect class="gridline horz h2 " />
+  <rect class="gridline horz h3 " />
+  <rect class="gridline horz h4 " />
+  <rect class="gridline horz h5 " />
+  <rect class="gridline horz h6 " />
+
+  <text id="h1" class="time text r4 c3"/>
+  <text id="h2" class="time text r4 c4"/>
+  <text id="m1" class="time text r4 c5"/>
+  <text id="m2" class="time text r4 c6"/>
+  <text id="tc" class="time text tc">:</text>
+  
+  <text id="day1" class="date text r3 c1 day"/>
+  <text id="day2" class="date text r3 c2 day"/>
+  <text id="day3" class="date text r3 c3 day"/>
+  <text id="md1"  class="date text r4 c1"/>
+  <text id="md2"  class="date text r4 c2"/>  
+  <text id="mon1" class="date text r3 c4"/>
+  <text id="mon2" class="date text r3 c5"/>
+  <text id="mon3" class="date text r3 c6"/>
+  
+  <text id="steps0" class="steps text r2 c1"/>
+  <text id="steps1" class="steps text r2 c2"/>
+  <text id="steps2" class="steps text r2 c3"/>
+  <text id="steps3" class="steps text r2 c4"/>
+  <text id="steps4" class="steps text r2 c5"/>
+  <text id="steps5" class="steps text r2 c6"/>
+  
+  <text id="heart1" class="heart text r5 c1"/>
+  <text id="heart2" class="heart text r5 c2"/>
+  <text id="heart3" class="heart text r5 c3"/>
+
+  <text id="distance1" class="distance text r5 c4"/>
+  <text id="distance2" class="distance text r5 c5"/>
+  <text id="distance3" class="distance text r5 c6"/>
+  <rect id="distanceP" class="distance text r5 rect" x="198" />
+  
+</svg>
